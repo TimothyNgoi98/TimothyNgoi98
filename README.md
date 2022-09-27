@@ -19,7 +19,7 @@ skills:
 
 technical_experience:
     - software engineer intern at OnLoop
-    - systemns engineer intern at Visa
+    - systems engineer intern at Visa
     - software engineer intern at SmartJen
 
 hobbies:
