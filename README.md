@@ -18,6 +18,7 @@ skills:
     - Flutter
 
 technical_experience:
+    - software engineer intern at JP Morgan
     - software engineer intern at OnLoop
     - systems engineer intern at Visa
     - software engineer intern at SmartJen
