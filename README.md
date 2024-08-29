@@ -11,25 +11,14 @@ education:
     graduated: December 2023
 
 currently:
-    - SWE @ JP Morgan
-
-skills:
-    - Python
-    - PHP
-    - JavaScript
-    - Java
-    - Flutter
+    software engineer: JP Mogran
 
 technical_experience:
-    - software engineer intern at JP Morgan
-    - software engineer intern at OnLoop
-    - systems engineer intern at Visa
-    - software engineer intern at SmartJen
+    software engineer intern: JP Morgan
+    software engineer intern: OnLoop
+    systems engineer intern: Visa
+    software engineer intern: SmartJen
 
-hobbies:
-    - brewing coffee and exploring new types of coffee
-    - film photography 
-    - exercising 
 
 ```
 
