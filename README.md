@@ -8,7 +8,10 @@ name: Timothy Ngoi
 education:
     university: Singapore Management University 
     course_of_study: Information Systems
-    expected_graduation: December 2023
+    graduated: December 2023
+
+currently:
+    - SWE @ JP Morgan
 
 skills:
     - Python
