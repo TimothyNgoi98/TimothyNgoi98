@@ -22,8 +22,6 @@ technical_experience:
 
 ```
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/timothy-ngoi/)
-&nbsp;
 
 
 <em>Feel free to connect with me 😊</em>
